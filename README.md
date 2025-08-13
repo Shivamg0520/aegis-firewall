@@ -23,7 +23,7 @@ Aegis Firewall is a simple desktop application built with tkinter and ttkbootstr
 1. Clone the repository or download `main_firewall_app.py`:
 
     ```sh
-    git clone https://github.com/your-username/aegis-firewall.git
+    git clone https://github.com/Shivamg0520/aegis-firewall.git
     cd aegis-firewall
     ```
 
@@ -58,3 +58,4 @@ Aegis Firewall is a simple desktop application built with tkinter and ttkbootstr
 - **System Processes:** Common Windows system processes are filtered out from the list.
 
 ## License
+
