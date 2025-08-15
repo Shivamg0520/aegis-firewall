@@ -18,8 +18,6 @@ Easily **view, search, block, and unblock** applications from accessing the inte
 
 ## 📸 Screenshots
 
-> *(Add screenshots here for a professional look)*
-
 | Main Window | Search in Action |
 |-------------|------------------|
 | ![Main UI](screenshots/main_ui.png) | ![Search](screenshots/search.png) |
