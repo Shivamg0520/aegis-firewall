@@ -30,7 +30,7 @@ Easily **view, search, block, and unblock** applications from accessing the inte
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/aegis-firewall.git
+git clone https://github.com/shivamg0520/aegis-firewall.git
 cd aegis-firewall
 ```
 
