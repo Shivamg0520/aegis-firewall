@@ -82,4 +82,4 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## 💡 Author
 
 **Shivam Gupta**  
-B.Tech 3rd Year | App Developer & Ethical Hacking Enthusiast
+B.Tech 3rd Year | Python Developer & Ethical Hacking Enthusiast
